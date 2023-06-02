@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/harshit24341049" target="blank"><img src="https://img.shields.io/twitter/follow/harshit24341049?logo=twitter&style=for-the-badge" alt="harshit24341049" /></a> </p>
 
-- 🔭 I’m currently working on **Disease Prediction Project**
+- 🔭 I’m currently working on **Whatsapp Web Clone and Restaurant Website**
 
 - 🌱 I’m currently learning **MERN Stack, Data Science, and Advanced JAVA**
 
