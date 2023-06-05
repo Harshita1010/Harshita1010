@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 - 🤝 I’m looking for help in **Machine Learning and Frontend Development**
 
 - 💬 Ask me about **Data Science, Frontend Development, and Problem-Solving**
-- 😄 Pronouns: **She/Her**
+- 😄 Pronouns: **She/Her 👧🏻**
 
-- ⚡ Fun fact **I love sketching, Digital Drawing, dancing, eating, listening to songs, and watching movies**
+- ⚡ Fun fact **I love sketching, Digital Drawing 🎨, dancing 💃, eating 🍜, listening to songs 🎧, and watching movies 🍿**
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
