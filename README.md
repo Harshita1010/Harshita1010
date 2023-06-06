@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey!!👋 Nice to see you.
 
 ![image github](https://github.com/Harshita1010/Harshita1010/assets/92073848/f06a4d07-25b4-461c-99b7-68862f0bf6c5)
 
@@ -43,12 +43,12 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I love sketching, Digital Drawing 🎨, dancing 💃, eating 🍜, listening to songs 🎧, and watching movies 🍿**
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">
+<h2 align="left">Connect with me 🤝</h2>
+<p align="left">
 <a href="https://twitter.com/harshit24341049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshit24341049" height="30" width="40" /></a>     <a href="https://www.linkedin.com/in/harshita-singh-2001-lko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshita-singh-2001-lko/" height="30" width="40" /></a>  <a href="https://www.instagram.com/harsh_ita5489/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/harsh_ita5489/" height="30" width="40" /></a>  <a href="https://hashnode.com/@harshitaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@harshitaa" height="30" width="40" /></a>  <a href="https://leetcode.com/harshita8421/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/harshita8421/" height="30" width="40" /></a>  <a href="https://auth.geeksforgeeks.org/user/harshitavns2001/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/harshitavns2001/practice" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools I use:</h2>
 
 <p>Programming Languages :</p>
 
@@ -185,7 +185,7 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="center">Summary of my Github Account:</h2>
+<h2 align="center">Status of my Github Account :</h2>
 <!-- <p><a href="https://www.buymeacoffee.com/Harshita1010"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Harshita1010" /></a></p><br><br> -->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshita1010&theme=merko" alt="harshita1010" /></p>
