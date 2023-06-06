@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="left"> 
  <img src="https://img.shields.io/github/followers/Harshita1010?style=social" alt="harshita1010" /> 
- <img src="https://img.shields.io/github/followers/Harshita1010?style=social" alt="harshita1010" /> 
+ <img src="https://img.shields.io/github/stars/Harshita1010?style=social" alt="harshita1010" /> 
 </p>
 
 
